@@ -23,7 +23,7 @@ useEffect(() => {
       <div className = "nav__contents">
       <img 
       className = 'nav__logo'
-      src = ""
+      src = "https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png"
       alt = "" 
       />
 
